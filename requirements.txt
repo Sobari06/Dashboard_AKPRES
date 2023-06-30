@@ -3,4 +3,3 @@ pandas
 plotly_express
 streamlit_lottie 
 requests
-os
